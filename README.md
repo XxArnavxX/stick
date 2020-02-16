@@ -1,2 +1,2 @@
-# topple-over-test
-this is a code i made so the blocks will topple over
+# staticSquare
+A static square made using Matter.js physics engine
